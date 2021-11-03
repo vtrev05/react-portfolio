@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.button {
+  text-align: center;
+  color: whitesmoke;
+  border: whitesmoke 2px solid;
+  background-color: hsl(240, 73%, 65%);
+  font-weight: 400;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  padding: 13px;
+  margin: 20px;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: hsl(273, 75%, 66%);
+  opacity: 90%;
+}

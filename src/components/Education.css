@@ -1,0 +1,20 @@
+.container{
+    margin: 0 auto;
+    max-width: 600px;
+    border-radius: 10px;
+    background-color: hsl(240, 73%, 65%);
+    color: whitesmoke;
+}
+.name{
+    margin: 40px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.05;
+}
+.paragraph{
+    margin: 30px auto;
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.6rem;
+}
